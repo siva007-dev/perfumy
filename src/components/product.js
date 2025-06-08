@@ -3,7 +3,7 @@ import two from "../assets/images/two.jpg"
 import three from "../assets/images/three.jpg"
 
 
-function Perfumelist(){
+function Products(){
   return(
     <div class="products">
 
@@ -25,4 +25,4 @@ function Perfumelist(){
   )
 }
 
-export default Perfumelist
+export default Products

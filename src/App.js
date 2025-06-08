@@ -1,6 +1,6 @@
 import Navbar from "./components/navbar";
 import Searchbar from "./components/searchbar";
-import Perfumelist from "./components/perfumelist";
+import Perfumelist from "./components/product";
 import About from "./components/about";
 import Footer from "./components/footer";
 
@@ -9,7 +9,7 @@ function App(){
     <div>
     <Navbar></Navbar>
     <Searchbar></Searchbar>
-    <Perfumelist></Perfumelist>
+    <Products></Products>
     <About></About>
     <Footer></Footer>
     </div>
