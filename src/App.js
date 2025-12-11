@@ -1,6 +1,6 @@
 import Navbar from "./components/navbar";
 import Searchbar from "./components/searchbar";
-import Perfumelist from "./components/product";
+import Products from "./components/product";
 import About from "./components/about";
 import Footer from "./components/footer";
 
